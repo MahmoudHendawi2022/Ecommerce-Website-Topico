@@ -176,7 +176,7 @@ function filterProducts() {
 
 
 
-// function openFilterDev() {
-//   let filterDev = document.querySelector(".filter");
-//   filterDev.classList.toggle("active");
-// }
+function openFilterDev() {
+  let filterDev = document.querySelector(".filter");
+  filterDev.classList.toggle("active");
+}
